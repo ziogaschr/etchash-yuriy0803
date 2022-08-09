@@ -37,5 +37,6 @@ var hasher = etchash.New(nil, &uip1FEpoch)
 if hasher.Verify(block) {
     ...
 }
+
 ```
 
