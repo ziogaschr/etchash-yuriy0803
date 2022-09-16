@@ -38,10 +38,10 @@ import (
 	"unsafe"
 
 	"github.com/edsrzf/mmap-go"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/etclabscore/core-geth/common"
+	"github.com/etclabscore/core-geth/common/hexutil"
+	"github.com/etclabscore/core-geth/crypto"
+	"github.com/etclabscore/core-geth/log"
 	"github.com/hashicorp/golang-lru/simplelru"
 )
 
