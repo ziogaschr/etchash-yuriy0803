@@ -42,7 +42,7 @@ import (
 	"github.com/etclabscore/core-geth/common/hexutil"
 	"github.com/etclabscore/core-geth/crypto"
 	"github.com/etclabscore/core-geth/log"
-	"github.com/hashicorp/golang-lru/simplelru"
+	"github.com/yuriy0803/golang-lru/simplelru"
 )
 
 var (
